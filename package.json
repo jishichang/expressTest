@@ -4,6 +4,7 @@
   "description": "case site",
   "main": "case.js",
   "devDependencies": {
+    "grunt": "^1.0.1",
     "mocha": "^2.4.5",
     "zombie": "^4.2.1"
   },
